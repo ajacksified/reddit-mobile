@@ -61,6 +61,7 @@ SortAndTimeSelector.defaultProps = {
   sortOptions: [
     SORTS.HOT,
     SORTS.TOP,
+    SORTS.RISING,
     SORTS.NEW,
     SORTS.CONTROVERSIAL,
   ],

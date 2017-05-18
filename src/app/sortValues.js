@@ -23,6 +23,7 @@ export const SUPPORTED_SORTS = [
   SORTS.TOP,
   SORTS.NEW,
   SORTS.CONTROVERSIAL,
+  SORTS.RISING,
 ];
 
 export const SORT_VALUES_MAP = {
